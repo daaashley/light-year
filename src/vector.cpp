@@ -45,9 +45,7 @@ int main()
 
     // Vector can grow and shrink
     // {...} is an initializer list
-    std::vector<int> IDVec = {123,
-                              124,
-                              125};
+    std::vector<int> IDVec = {123, 124, 125};
 
     std::cout
         << IDVec[0] << std::endl;
@@ -58,5 +56,12 @@ int main()
     // grow
     IDVec.push_back(1234);
     // insert
-    IDVec.insert(IDVec.begin(), 1134);
+    IDVec.insert(IDVec.begin(), 1134); // begin is an iterator
+    std::cout << "the first one of IDVec is: " << IDVec.front() << std::endl;
+
+    // remove
+    IDVec.erase(IDVec.begin());
+    std::cout << "the first one of IDVec is: " << IDVec.front() << std::endl;
+
+    // try to see what else the vectore type can do.
 }
