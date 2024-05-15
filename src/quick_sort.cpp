@@ -53,12 +53,38 @@ void sortVector(std::vector<int> &vectorToSort)
 
 // const means we are not changing, since this is read only print
 // const enforces non-mutation
-void printVector(const std::vector<int> &vectorToPrint)
+template <typename T>
+void printVector(const std::vector<T> &vectorToPrint)
 {
-    for (int num : vectorToPrint)
+    for (T element : vectorToPrint)
     {
-        std::cout << num << " ";
+        std::cout << element << " ";
     }
+}
+
+// String types with " " space
+
+template <typename T>
+T sum(T t)
+{
+    return t;
+}
+
+template <typename ArgOne, typename... Others> //... is varying amount of template args
+ArgOne sum(ArgOne argOne, Others... others)
+{
+    return argOne + sum(others...); // ... is unpacking here // final 'sum' has one arg and will call T generic sum above
+}
+
+std::string sum(std::string t)
+{
+    return t;
+}
+
+template <typename... Others> //... is varying amount of template args
+std::string sum(std::string argOne, Others... others)
+{
+    return argOne + " " + sum(others...); // ... is unpacking here // final 'sum' has one arg and will call T generic sum above
 }
 
 int main()
@@ -83,4 +109,8 @@ int main()
     auto t_end = std::chrono::high_resolution_clock::now();
     std::cout << "Time for " << size << " numbers: " << std::chrono::duration<double, std::milli>(t_end - t_start).count() / 1000 << " seconds." << std::endl;
     printVector(randomNumbers);
+    printVector(std::vector<std::string>{"aaa", "bbb", "ccc"});
+
+    // std::cout << sum(1.5, 2, 3, 4, 123) << std::endl;
+    std::cout << sum(std::string{"Adam"}, std::string{"Steve"}) << std::endl; // Can also do std::string{"Adam"}
 }
