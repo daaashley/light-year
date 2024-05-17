@@ -6,6 +6,7 @@
 #include <sstream>
 #include <random>
 #include <chrono>
+#include "utility.h"
 
 int partition(std::vector<int> &arr, int left, int right)
 {
@@ -53,14 +54,14 @@ void sortVector(std::vector<int> &vectorToSort)
 
 // const means we are not changing, since this is read only print
 // const enforces non-mutation
-template <typename T>
-void printVector(const std::vector<T> &vectorToPrint)
-{
-    for (T element : vectorToPrint)
-    {
-        std::cout << element << " ";
-    }
-}
+// template <typename T>
+// void printVector(const std::vector<T> &vectorToPrint)
+// {
+//     for (T element : vectorToPrint)
+//     {
+//         std::cout << element << " ";
+//     }
+// }
 
 // String types with " " space
 
