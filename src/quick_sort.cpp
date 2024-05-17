@@ -87,19 +87,25 @@ std::string sum(std::string argOne, Others... others)
     return argOne + " " + sum(others...); // ... is unpacking here // final 'sum' has one arg and will call T generic sum above
 }
 
-int main()
+std::vector<int> generateRandomNumbers(int numberOfNumbers)
 {
-    // Given a sequence of numbers, find the smallest one.
     std::vector<int> randomNumbers;
-    int size = 100;
     std::srand(std::time(nullptr));
 
-    for (int i = 0; i < size; i++)
+    for (int i = 0; i < numberOfNumbers; i++)
     {
         int number = std::rand() % 100 - 50;
         randomNumbers.push_back(number);
         // std::cout << number << " ";
     }
+    return randomNumbers;
+}
+
+int main()
+{
+    int size = 100;
+    std::vector<int> randomNumbers = generateRandomNumbers(size);
+    // Given a sequence of numbers, find the smallest one.
 
     // SORTING
 
