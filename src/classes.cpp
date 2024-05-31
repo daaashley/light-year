@@ -25,12 +25,12 @@ public:                                                                     // a
         std::cout << "student " << name << " is destructed" << std::endl;
     }
 
-    void sayHello()
+    void sayHello() const
     {
         std::cout << name << " says hello" << std::endl;
     }
 
-    // Member variables
+    // Member variables, we can make these 'const' as well
     std::string name;
     int ID;
     int year;
@@ -41,7 +41,8 @@ private:
 
 int main()
 {
-    Student studentOne{"Sam", 1234, 1};
+    const Student studentOne{"Sam", 1234, 1};
+    studentOne.sayHello(); // const suffix for func def, not mutating class vars
 
     Student studentTwo{"Sam", 1234, 1};
     studentTwo.name = "Emily";
