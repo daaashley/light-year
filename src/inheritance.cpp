@@ -1,5 +1,6 @@
 #include "inheritance.h"
 #include <iostream>
+#include "dynamic_number.h"
 
 IntContainer::IntContainer()
     : intPtr{new int{0}}
@@ -86,5 +87,6 @@ int main()
     std::cout
         << intCOne.GetValue() << std::endl;
 
-    // Use the move constructor to move values, transfer of ownership
+    DynamicNumber<float> dFloat{21.1};
+    std::cout << dFloat.GetValue() << std::endl;
 }
