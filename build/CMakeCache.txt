@@ -14,14 +14,17 @@
 # EXTERNAL cache entries
 ########################
 
+//TRUE to build SFML as shared libraries, FALSE to build it as
+// static libraries
+BUILD_SHARED_LIBS:BOOL=TRUE
+
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=CMAKE_ADDR2LINE-NOTFOUND
 
 //Path to a program.
 CMAKE_AR:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/ar
 
-//Choose the type of build, options are: None Debug Release RelWithDebInfo
-// MinSizeRel ...
+//Choose the type of build (Debug or Release)
 CMAKE_BUILD_TYPE:STRING=
 
 //Enable/Disable color output during build.
@@ -128,8 +131,8 @@ CMAKE_OBJCOPY:FILEPATH=CMAKE_OBJCOPY-NOTFOUND
 //Path to a program.
 CMAKE_OBJDUMP:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/objdump
 
-//Build architectures for OSX
-CMAKE_OSX_ARCHITECTURES:STRING=
+//macOS architecture to build; 64-bit is expected
+CMAKE_OSX_ARCHITECTURES:STRING=x86_64
 
 //Minimum OS X version to target for deployment (at runtime); newer
 // APIs weak linked. Set to empty string for default value.
@@ -228,6 +231,44 @@ CMAKE_TAPI:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/tapi
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Directory under which to collect all populated content
+FETCHCONTENT_BASE_DIR:PATH=/Users/davidashley/Documents/CPP/light-year/build/_deps
+
+//Disables all attempts to download or update content and assumes
+// source dirs already exist
+FETCHCONTENT_FULLY_DISCONNECTED:BOOL=OFF
+
+//Enables QUIET option for all content population
+FETCHCONTENT_QUIET:BOOL=ON
+
+//When not empty, overrides where to find pre-populated content
+// for SFML
+FETCHCONTENT_SOURCE_DIR_SFML:PATH=
+
+//Enables UPDATE_DISCONNECTED behavior for all content population
+FETCHCONTENT_UPDATES_DISCONNECTED:BOOL=OFF
+
+//Enables UPDATE_DISCONNECTED behavior just for population of SFML
+FETCHCONTENT_UPDATES_DISCONNECTED_SFML:BOOL=OFF
+
+//Path to a file.
+FLAC_INCLUDE_DIR:PATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers
+
+//Path to a library.
+FLAC_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/FLAC.framework
+
+//Path to a file.
+FREETYPE_INCLUDE_DIR_freetype2:PATH=/opt/homebrew/include/freetype2
+
+//Path to a file.
+FREETYPE_INCLUDE_DIR_ft2build:PATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers/freetype2
+
+//Path to a library.
+FREETYPE_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/freetype.framework
+
+//Git command line client
+GIT_EXECUTABLE:FILEPATH=/usr/bin/git
+
 //Value Computed by CMake
 LightYear_BINARY_DIR:STATIC=/Users/davidashley/Documents/CPP/light-year/build
 
@@ -236,6 +277,112 @@ LightYear_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 LightYear_SOURCE_DIR:STATIC=/Users/davidashley/Documents/CPP/light-year
+
+//Path to a file.
+OGG_INCLUDE_DIR:PATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers
+
+//Path to a library.
+OGG_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/ogg.framework
+
+//Path to a file.
+OPENAL_INCLUDE_DIR:PATH=/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenAL.framework/Headers
+
+//Path to a library.
+OPENAL_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/OpenAL.framework
+
+//Include for the OpenGL GLU library
+OPENGL_GLU_INCLUDE_DIR:PATH=/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework
+
+//Include for OpenGL
+OPENGL_INCLUDE_DIR:PATH=/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework
+
+//OpenGL GL library
+OPENGL_gl_LIBRARY:FILEPATH=/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework
+
+//OpenGL GLU library
+OPENGL_glu_LIBRARY:FILEPATH=/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework
+
+//Value Computed by CMake
+SFML_BINARY_DIR:STATIC=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-build
+
+//TRUE to build SFML's Audio module.
+SFML_BUILD_AUDIO:BOOL=TRUE
+
+//TRUE to generate the API documentation, FALSE to ignore it
+SFML_BUILD_DOC:BOOL=FALSE
+
+//TRUE to build the SFML examples, FALSE to ignore them
+SFML_BUILD_EXAMPLES:BOOL=FALSE
+
+//TRUE to build SFML as frameworks libraries (release only), FALSE
+// to build according to BUILD_SHARED_LIBS
+SFML_BUILD_FRAMEWORKS:BOOL=FALSE
+
+//TRUE to build SFML's Graphics module.
+SFML_BUILD_GRAPHICS:BOOL=TRUE
+
+//TRUE to build SFML's Network module.
+SFML_BUILD_NETWORK:BOOL=TRUE
+
+//TRUE to build SFML's Window module. This setting is ignored,
+// if the graphics module is built.
+SFML_BUILD_WINDOW:BOOL=TRUE
+
+//External frameworks (FLAC, Freetype, Vorbis, ...) installation
+// directory
+SFML_DEPENDENCIES_INSTALL_PREFIX:PATH=/Library/Frameworks
+
+//TRUE to automatically install pkg-config files so other projects
+// can find SFML
+SFML_INSTALL_PKGCONFIG_FILES:BOOL=FALSE
+
+//TRUE to automatically install the Xcode templates, FALSE to do
+// nothing about it. The templates are compatible with Xcode 4
+// and 5.
+SFML_INSTALL_XCODE_TEMPLATES:BOOL=FALSE
+
+//Value Computed by CMake
+SFML_IS_TOP_LEVEL:STATIC=OFF
+
+//Prefix installation path for miscellaneous files
+SFML_MISC_INSTALL_PREFIX:PATH=/usr/local/share/SFML
+
+//TRUE to use an OpenGL ES implementation, FALSE to use a desktop
+// OpenGL implementation
+SFML_OPENGL_ES:BOOL=0
+
+//Value Computed by CMake
+SFML_SOURCE_DIR:STATIC=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src
+
+//TRUE to use system dependencies, FALSE to use the bundled ones.
+SFML_USE_SYSTEM_DEPS:BOOL=FALSE
+
+//Path to a library.
+VORBISENC_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/vorbisenc.framework
+
+//Path to a library.
+VORBISFILE_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/vorbisfile.framework
+
+//Path to a file.
+VORBIS_INCLUDE_DIR:PATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers
+
+//Path to a library.
+VORBIS_LIBRARY:FILEPATH=/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/vorbis.framework
+
+//Dependencies for the target
+sfml-audio_LIB_DEPENDS:STATIC=general;-stdlib=libc++;general;sfml-system;
+
+//Dependencies for the target
+sfml-graphics_LIB_DEPENDS:STATIC=general;-stdlib=libc++;general;sfml-window;
+
+//Dependencies for the target
+sfml-network_LIB_DEPENDS:STATIC=general;-stdlib=libc++;general;sfml-system;
+
+//Dependencies for the target
+sfml-system_LIB_DEPENDS:STATIC=general;-stdlib=libc++;general;pthread;
+
+//Dependencies for the target
+sfml-window_LIB_DEPENDS:STATIC=general;-stdlib=libc++;general;sfml-system;general;-framework Foundation;general;-framework AppKit;general;-framework IOKit;general;-framework Carbon;
 
 
 ########################
@@ -336,7 +483,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
@@ -381,4 +528,48 @@ CMAKE_TAPI-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding FLAC
+FIND_PACKAGE_MESSAGE_DETAILS_FLAC:INTERNAL=[/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/FLAC.framework][/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers][v()]
+//Details about finding OpenAL
+FIND_PACKAGE_MESSAGE_DETAILS_OpenAL:INTERNAL=[/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/OpenAL.framework][/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenAL.framework/Headers][v()]
+//Details about finding OpenGL
+FIND_PACKAGE_MESSAGE_DETAILS_OpenGL:INTERNAL=[/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework][/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework][c ][v()]
+//Details about finding VORBIS
+FIND_PACKAGE_MESSAGE_DETAILS_VORBIS:INTERNAL=[/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/vorbisenc.framework;/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/vorbisfile.framework;/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/vorbis.framework;/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/libs-osx/Frameworks/ogg.framework][/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers][/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/extlibs/headers][v()]
+//ADVANCED property for variable: FLAC_INCLUDE_DIR
+FLAC_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: FLAC_LIBRARY
+FLAC_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: FREETYPE_INCLUDE_DIR_freetype2
+FREETYPE_INCLUDE_DIR_freetype2-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: FREETYPE_INCLUDE_DIR_ft2build
+FREETYPE_INCLUDE_DIR_ft2build-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: FREETYPE_LIBRARY
+FREETYPE_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: GIT_EXECUTABLE
+GIT_EXECUTABLE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OGG_INCLUDE_DIR
+OGG_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OGG_LIBRARY
+OGG_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENAL_INCLUDE_DIR
+OPENAL_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENAL_LIBRARY
+OPENAL_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_GLU_INCLUDE_DIR
+OPENGL_GLU_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_INCLUDE_DIR
+OPENGL_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_gl_LIBRARY
+OPENGL_gl_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_glu_LIBRARY
+OPENGL_glu_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: VORBISENC_LIBRARY
+VORBISENC_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: VORBISFILE_LIBRARY
+VORBISFILE_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: VORBIS_INCLUDE_DIR
+VORBIS_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: VORBIS_LIBRARY
+VORBIS_LIBRARY-ADVANCED:INTERNAL=1
 
