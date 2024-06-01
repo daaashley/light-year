@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.29.3)
+
+project(LightYear
+    VERSION 1.0.0
+    LANGUAGES C CXX
+    )
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
+# Creates a variable
+set(LIGHT_YEAR_GAME_TARGET_NAME LightYearGame)
+
+# Source code include
+add_subdirectory(LightYear)

@@ -1,0 +1,5 @@
+/Users/davidashley/Documents/CPP/light-year/build/CMakeFiles/edit_cache.dir
+/Users/davidashley/Documents/CPP/light-year/build/CMakeFiles/rebuild_cache.dir
+/Users/davidashley/Documents/CPP/light-year/build/LightYear/CMakeFiles/LightYearGame.dir
+/Users/davidashley/Documents/CPP/light-year/build/LightYear/CMakeFiles/edit_cache.dir
+/Users/davidashley/Documents/CPP/light-year/build/LightYear/CMakeFiles/rebuild_cache.dir
