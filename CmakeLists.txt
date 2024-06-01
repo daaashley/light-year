@@ -23,6 +23,9 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(${SFML_LIB_NAME})
 
+# find_package(SFML 2.6.1 COMPONENTS system window graphics network audio REQUIRED)
+# include_directories(${SFML_INCLUDE_DIRS})
+
 # Creates a variable
 set(LIGHT_YEAR_GAME_TARGET_NAME LightYearGame)
 

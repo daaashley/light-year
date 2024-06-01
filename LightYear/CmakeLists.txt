@@ -7,11 +7,18 @@ target_link_libraries(${LIGHT_YEAR_GAME_TARGET_NAME} PUBLIC sfml-window)
 target_link_libraries(${LIGHT_YEAR_GAME_TARGET_NAME} PUBLIC sfml-system)
 target_link_libraries(${LIGHT_YEAR_GAME_TARGET_NAME} PUBLIC sfml-audio)
 
+function(CopyLibToTarget LIB_NAME TARGET_NAME)
 add_custom_command(
-    TARGET ${LIGHT_YEAR_GAME_TARGET_NAME}
+    TARGET ${TARGET_NAME}
     POST_BUILD
     COMMAND 
     ${CMAKE_COMMAND} -E copy_if_different
-    $<TARGET_FILE:sfml-window>
-    $<TARGET_FILE_DIR:${LIGHT_YEAR_GAME_TARGET_NAME}>
+    $<TARGET_FILE:${LIB_NAME}>
+    $<TARGET_FILE_DIR:${TARGET_NAME}>
 )
+endfunction()
+
+CopyLibToTarget(sfml-graphics ${LIGHT_YEAR_GAME_TARGET_NAME})
+CopyLibToTarget(sfml-window ${LIGHT_YEAR_GAME_TARGET_NAME})
+CopyLibToTarget(sfml-system ${LIGHT_YEAR_GAME_TARGET_NAME})
+CopyLibToTarget(sfml-audio ${LIGHT_YEAR_GAME_TARGET_NAME})
