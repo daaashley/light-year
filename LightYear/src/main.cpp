@@ -4,7 +4,6 @@
 int main()
 {
     sf::RenderWindow renderWindow(sf::VideoMode(800, 800), "MyWindow");
-    renderWindow.setFramerateLimit(60);
     // The main loop - ends as soon as the window is closed
     while (renderWindow.isOpen())
     {
