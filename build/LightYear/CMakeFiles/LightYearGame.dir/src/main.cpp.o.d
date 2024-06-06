@@ -950,4 +950,5 @@ LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o: \
   /Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include/SFML/Graphics/Glsl.inl \
   /Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
   /Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
-  /Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp
+  /Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
+  /Users/davidashley/Documents/CPP/light-year/LightYear/include/framework/Application.h
