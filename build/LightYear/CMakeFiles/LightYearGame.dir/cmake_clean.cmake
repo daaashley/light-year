@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o"
+  "CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o.d"
   "CMakeFiles/LightYearGame.dir/src/main.cpp.o"
   "CMakeFiles/LightYearGame.dir/src/main.cpp.o.d"
   "LightYearGame"

@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include
+CXX_INCLUDES = -I/Users/davidashley/Documents/CPP/light-year/LightYear/include -I/Users/davidashley/Documents/CPP/light-year/build/_deps/sfml-src/include
 
 CXX_FLAGSx86_64 = -O3 -DNDEBUG -std=c++14 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
 
