@@ -10,8 +10,10 @@ namespace ly
         void Run();
 
     private:
-        void Tick(float deltaTime);
-        void Render();
+        virtual void Render();
+        virtual void Tick(float deltaTime);
+        void TickInternal(float deltaTime);
+        void RenderInternal();
         sf::RenderWindow mWindow; // class var 'm'Window
         float mTargetFrameRate;
         sf::Clock mTickClock;
