@@ -69,24 +69,10 @@ include LightYear/CMakeFiles/LightYearGame.dir/progress.make
 # Include the compile flags for this target's objects.
 include LightYear/CMakeFiles/LightYearGame.dir/flags.make
 
-LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o: LightYear/CMakeFiles/LightYearGame.dir/flags.make
-LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o: /Users/davidashley/Documents/CPP/light-year/LightYear/src/main.cpp
-LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o: LightYear/CMakeFiles/LightYearGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidashley/Documents/CPP/light-year/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o"
-	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o -MF CMakeFiles/LightYearGame.dir/src/main.cpp.o.d -o CMakeFiles/LightYearGame.dir/src/main.cpp.o -c /Users/davidashley/Documents/CPP/light-year/LightYear/src/main.cpp
-
-LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightYearGame.dir/src/main.cpp.i"
-	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidashley/Documents/CPP/light-year/LightYear/src/main.cpp > CMakeFiles/LightYearGame.dir/src/main.cpp.i
-
-LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightYearGame.dir/src/main.cpp.s"
-	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidashley/Documents/CPP/light-year/LightYear/src/main.cpp -o CMakeFiles/LightYearGame.dir/src/main.cpp.s
-
 LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o: LightYear/CMakeFiles/LightYearGame.dir/flags.make
 LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o: /Users/davidashley/Documents/CPP/light-year/LightYear/src/framework/Application.cpp
 LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o: LightYear/CMakeFiles/LightYearGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidashley/Documents/CPP/light-year/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidashley/Documents/CPP/light-year/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o"
 	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o -MF CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o.d -o CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o -c /Users/davidashley/Documents/CPP/light-year/LightYear/src/framework/Application.cpp
 
 LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.i: cmake_force
@@ -97,16 +83,30 @@ LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.s"
 	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidashley/Documents/CPP/light-year/LightYear/src/framework/Application.cpp -o CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.s
 
+LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o: LightYear/CMakeFiles/LightYearGame.dir/flags.make
+LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o: /Users/davidashley/Documents/CPP/light-year/LightYear/src/EntryPoint.cpp
+LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o: LightYear/CMakeFiles/LightYearGame.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/davidashley/Documents/CPP/light-year/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o"
+	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o -MF CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o.d -o CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o -c /Users/davidashley/Documents/CPP/light-year/LightYear/src/EntryPoint.cpp
+
+LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.i"
+	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/davidashley/Documents/CPP/light-year/LightYear/src/EntryPoint.cpp > CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.i
+
+LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.s"
+	cd /Users/davidashley/Documents/CPP/light-year/build/LightYear && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/davidashley/Documents/CPP/light-year/LightYear/src/EntryPoint.cpp -o CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.s
+
 # Object files for target LightYearGame
 LightYearGame_OBJECTS = \
-"CMakeFiles/LightYearGame.dir/src/main.cpp.o" \
-"CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o"
+"CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o" \
+"CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o"
 
 # External object files for target LightYearGame
 LightYearGame_EXTERNAL_OBJECTS =
 
-LightYear/LightYearGame: LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o
 LightYear/LightYearGame: LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o
+LightYear/LightYearGame: LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o
 LightYear/LightYearGame: LightYear/CMakeFiles/LightYearGame.dir/build.make
 LightYear/LightYearGame: _deps/sfml-build/lib/libsfml-graphics.2.5.1.dylib
 LightYear/LightYearGame: _deps/sfml-build/lib/libsfml-window.2.5.1.dylib

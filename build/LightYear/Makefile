@@ -195,6 +195,30 @@ LightYearGame/fast:
 	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/build
 .PHONY : LightYearGame/fast
 
+src/EntryPoint.o: src/EntryPoint.cpp.o
+.PHONY : src/EntryPoint.o
+
+# target to build an object file
+src/EntryPoint.cpp.o:
+	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o
+.PHONY : src/EntryPoint.cpp.o
+
+src/EntryPoint.i: src/EntryPoint.cpp.i
+.PHONY : src/EntryPoint.i
+
+# target to preprocess a source file
+src/EntryPoint.cpp.i:
+	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.i
+.PHONY : src/EntryPoint.cpp.i
+
+src/EntryPoint.s: src/EntryPoint.cpp.s
+.PHONY : src/EntryPoint.s
+
+# target to generate assembly for a file
+src/EntryPoint.cpp.s:
+	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.s
+.PHONY : src/EntryPoint.cpp.s
+
 src/framework/Application.o: src/framework/Application.cpp.o
 .PHONY : src/framework/Application.o
 
@@ -219,30 +243,6 @@ src/framework/Application.cpp.s:
 	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.s
 .PHONY : src/framework/Application.cpp.s
 
-src/main.o: src/main.cpp.o
-.PHONY : src/main.o
-
-# target to build an object file
-src/main.cpp.o:
-	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
-
-src/main.i: src/main.cpp.i
-.PHONY : src/main.i
-
-# target to preprocess a source file
-src/main.cpp.i:
-	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
-
-src/main.s: src/main.cpp.s
-.PHONY : src/main.s
-
-# target to generate assembly for a file
-src/main.cpp.s:
-	cd /Users/davidashley/Documents/CPP/light-year/build && $(MAKE) $(MAKESILENT) -f LightYear/CMakeFiles/LightYearGame.dir/build.make LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -258,12 +258,12 @@ help:
 	@echo "... package_source"
 	@echo "... rebuild_cache"
 	@echo "... LightYearGame"
+	@echo "... src/EntryPoint.o"
+	@echo "... src/EntryPoint.i"
+	@echo "... src/EntryPoint.s"
 	@echo "... src/framework/Application.o"
 	@echo "... src/framework/Application.i"
 	@echo "... src/framework/Application.s"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
 .PHONY : help
 
 

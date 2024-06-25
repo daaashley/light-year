@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/davidashley/Documents/CPP/light-year/LightYear/src/EntryPoint.cpp" "LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o" "gcc" "LightYear/CMakeFiles/LightYearGame.dir/src/EntryPoint.cpp.o.d"
   "/Users/davidashley/Documents/CPP/light-year/LightYear/src/framework/Application.cpp" "LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o" "gcc" "LightYear/CMakeFiles/LightYearGame.dir/src/framework/Application.cpp.o.d"
-  "/Users/davidashley/Documents/CPP/light-year/LightYear/src/main.cpp" "LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o" "gcc" "LightYear/CMakeFiles/LightYearGame.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
