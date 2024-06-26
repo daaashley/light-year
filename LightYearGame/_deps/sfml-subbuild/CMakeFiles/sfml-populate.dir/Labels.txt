@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

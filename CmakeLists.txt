@@ -27,8 +27,10 @@ FetchContent_MakeAvailable(${SFML_LIB_NAME})
 # include_directories(${SFML_INCLUDE_DIRS})
 
 # Creates a variable
+set(LIGHT_YEAR_ENGINE_TARGET_NAME LightYearEngine)
 set(LIGHT_YEAR_GAME_TARGET_NAME LightYearGame)
 
 # Source code include
-add_subdirectory(LightYear)
+add_subdirectory(LightYearEngine)
+add_subdirectory(LightYearGame)
 

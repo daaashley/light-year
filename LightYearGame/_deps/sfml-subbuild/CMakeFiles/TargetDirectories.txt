@@ -1,0 +1,3 @@
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/Users/davidashley/Documents/CPP/light-year/LightYearGame/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
