@@ -1,4 +1,4 @@
-# Install script for directory: /Users/davidashley/Documents/CPP/light-year/LightYearEngine
+# Install script for directory: /Users/davidashley/Documents/CPP/light-year/LightYearGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
