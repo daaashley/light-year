@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libLightYearEngine.a CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libLightYearEngine.a
