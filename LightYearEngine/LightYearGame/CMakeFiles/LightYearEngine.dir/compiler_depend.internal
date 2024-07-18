@@ -1621,3 +1621,6 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Application.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Core.h
 
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o
+ /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/Core.cpp
+

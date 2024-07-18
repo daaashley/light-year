@@ -1619,6 +1619,10 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o: 
   include/framework/Application.h \
   include/framework/Core.h
 
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o: src/framework/Core.cpp
+
+
+src/framework/Core.cpp:
 
 src/framework/Application.cpp:
 
