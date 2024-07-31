@@ -83,10 +83,24 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.s: 
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.s"
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/Application.cpp -o CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.s
 
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o: LightYearEngine/CMakeFiles/LightYearEngine.dir/flags.make
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o: src/framework/World.cpp
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o: LightYearEngine/CMakeFiles/LightYearEngine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o"
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o -MF CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o.d -o CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o -c /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/World.cpp
+
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.i"
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/World.cpp > CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.i
+
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.s"
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/World.cpp -o CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.s
+
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o: LightYearEngine/CMakeFiles/LightYearEngine.dir/flags.make
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o: src/framework/Core.cpp
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o: LightYearEngine/CMakeFiles/LightYearEngine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o"
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o -MF CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o.d -o CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o -c /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/Core.cpp
 
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.i: cmake_force
@@ -100,7 +114,7 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.s: cmake_f
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o: LightYearEngine/CMakeFiles/LightYearEngine.dir/flags.make
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o: src/EntryPoint.cpp
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o: LightYearEngine/CMakeFiles/LightYearEngine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o"
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o -MF CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o.d -o CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o -c /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/EntryPoint.cpp
 
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.i: cmake_force
@@ -114,6 +128,7 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.s: cmake_force
 # Object files for target LightYearEngine
 LightYearEngine_OBJECTS = \
 "CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o" \
+"CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o" \
 "CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o" \
 "CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o"
 
@@ -121,11 +136,12 @@ LightYearEngine_OBJECTS = \
 LightYearEngine_EXTERNAL_OBJECTS =
 
 LightYearEngine/libLightYearEngine.a: LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o
+LightYearEngine/libLightYearEngine.a: LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o
 LightYearEngine/libLightYearEngine.a: LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o
 LightYearEngine/libLightYearEngine.a: LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o
 LightYearEngine/libLightYearEngine.a: LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make
 LightYearEngine/libLightYearEngine.a: LightYearEngine/CMakeFiles/LightYearEngine.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libLightYearEngine.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libLightYearEngine.a"
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && $(CMAKE_COMMAND) -P CMakeFiles/LightYearEngine.dir/cmake_clean_target.cmake
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LightYearEngine.dir/link.txt --verbose=$(VERBOSE)
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine && /opt/homebrew/Cellar/cmake/3.30.0/bin/cmake -E copy_if_different /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-build/lib/libsfml-graphics.2.5.1.dylib /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine

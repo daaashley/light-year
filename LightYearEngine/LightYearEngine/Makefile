@@ -247,6 +247,30 @@ src/framework/Core.cpp.s:
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.s
 .PHONY : src/framework/Core.cpp.s
 
+src/framework/World.o: src/framework/World.cpp.o
+.PHONY : src/framework/World.o
+
+# target to build an object file
+src/framework/World.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o
+.PHONY : src/framework/World.cpp.o
+
+src/framework/World.i: src/framework/World.cpp.i
+.PHONY : src/framework/World.i
+
+# target to preprocess a source file
+src/framework/World.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.i
+.PHONY : src/framework/World.cpp.i
+
+src/framework/World.s: src/framework/World.cpp.s
+.PHONY : src/framework/World.s
+
+# target to generate assembly for a file
+src/framework/World.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.s
+.PHONY : src/framework/World.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -269,6 +293,9 @@ help:
 	@echo "... src/framework/Core.o"
 	@echo "... src/framework/Core.i"
 	@echo "... src/framework/Core.s"
+	@echo "... src/framework/World.o"
+	@echo "... src/framework/World.i"
+	@echo "... src/framework/World.s"
 .PHONY : help
 
 

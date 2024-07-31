@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o.d"
   "CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o"
   "CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o.d"
+  "CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o"
+  "CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o.d"
   "libLightYearEngine.a"
   "libLightYearEngine.pdb"
 )
