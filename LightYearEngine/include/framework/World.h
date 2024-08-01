@@ -18,5 +18,5 @@ namespace ly
             void Tick(float deltaTime);
             Application* mOwningApp;
             bool mBeganPlay;
-    }
+    };
 }

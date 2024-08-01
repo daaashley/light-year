@@ -1,5 +1,5 @@
-#include "framework/world.h"
-#include "framework/core.h"
+#include "framework/World.h"
+#include "framework/Core.h"
 
 namespace ly
 {
@@ -26,7 +26,7 @@ namespace ly
     }
     void World::BeginPlay()
     {
-        LOG("Began play")
+        LOG("Began play");
     }
     void World::Tick(float deltaTime)
     {

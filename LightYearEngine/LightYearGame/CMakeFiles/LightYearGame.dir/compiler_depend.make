@@ -808,8 +808,12 @@ LightYearGame/CMakeFiles/LightYearGame.dir/src/gameFramework/GameApplication.cpp
   _deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
   _deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
   include/framework/Application.h \
+  include/framework/Core.h \
+  include/framework/World.h \
   /Users/david.ashley/Documents/light-year/light-year/LightYearGame/include/gameFramework/GameApplication.h
 
+
+include/framework/World.h:
 
 _deps/sfml-src/include/SFML/Window/WindowHandle.hpp:
 
@@ -1200,6 +1204,8 @@ _deps/sfml-src/include/SFML/Window.hpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/forward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/declval.h:
+
+include/framework/Core.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__utility/cmp.h:
 

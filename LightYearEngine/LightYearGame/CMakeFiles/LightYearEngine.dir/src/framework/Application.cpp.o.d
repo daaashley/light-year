@@ -806,4 +806,5 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o: 
   /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
   /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
   /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
-  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Core.h
+  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Core.h \
+  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/World.h

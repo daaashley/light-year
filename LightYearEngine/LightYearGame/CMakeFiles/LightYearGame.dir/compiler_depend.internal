@@ -809,5 +809,7 @@ LightYearGame/CMakeFiles/LightYearGame.dir/src/gameFramework/GameApplication.cpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Application.h
+ /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Core.h
+ /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/World.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearGame/include/gameFramework/GameApplication.h
 
