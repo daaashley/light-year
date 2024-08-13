@@ -9,7 +9,12 @@ namespace ly
         {
 
         }
-        
+
+        Actor::~Actor()
+        {
+            
+        }
+
         void Actor::BeginPlayInternal()
         {
             if(!mHasBeganPlay){
