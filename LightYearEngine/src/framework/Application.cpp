@@ -49,7 +49,7 @@ namespace ly
 
     void Application::Tick(float deltaTime)
     {
-        LOG("ticking at framerate: %f",  1.f / deltaTime);
+       // LOG("ticking at framerate: %f",  1.f / deltaTime);
     }
 
     void Application::RenderInternal()

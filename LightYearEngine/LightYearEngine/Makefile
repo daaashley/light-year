@@ -199,6 +199,30 @@ src/EntryPoint.cpp.s:
 	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.s
 .PHONY : src/EntryPoint.cpp.s
 
+src/framework/Actor.o: src/framework/Actor.cpp.o
+.PHONY : src/framework/Actor.o
+
+# target to build an object file
+src/framework/Actor.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.o
+.PHONY : src/framework/Actor.cpp.o
+
+src/framework/Actor.i: src/framework/Actor.cpp.i
+.PHONY : src/framework/Actor.i
+
+# target to preprocess a source file
+src/framework/Actor.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.i
+.PHONY : src/framework/Actor.cpp.i
+
+src/framework/Actor.s: src/framework/Actor.cpp.s
+.PHONY : src/framework/Actor.s
+
+# target to generate assembly for a file
+src/framework/Actor.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.s
+.PHONY : src/framework/Actor.cpp.s
+
 src/framework/Application.o: src/framework/Application.cpp.o
 .PHONY : src/framework/Application.o
 
@@ -287,6 +311,9 @@ help:
 	@echo "... src/EntryPoint.o"
 	@echo "... src/EntryPoint.i"
 	@echo "... src/EntryPoint.s"
+	@echo "... src/framework/Actor.o"
+	@echo "... src/framework/Actor.i"
+	@echo "... src/framework/Actor.s"
 	@echo "... src/framework/Application.o"
 	@echo "... src/framework/Application.i"
 	@echo "... src/framework/Application.s"

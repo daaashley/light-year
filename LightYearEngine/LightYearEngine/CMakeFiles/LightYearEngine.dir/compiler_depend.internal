@@ -729,11 +729,11 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
@@ -811,6 +811,9 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/EntryPoint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Application.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Core.h
+
+LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.o
+ /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/Actor.cpp
 
 LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/src/framework/Application.cpp
@@ -1540,11 +1543,11 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
@@ -2285,11 +2288,12 @@ LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
+ /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Actor.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/Core.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/include/framework/World.h
 

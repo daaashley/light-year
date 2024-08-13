@@ -642,11 +642,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/CircleShape.hpp
@@ -1294,11 +1294,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -1937,11 +1937,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -2694,12 +2694,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/freetype2/config/ftconfig.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/freetype2/config/ftheader.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/freetype2/config/ftoption.h
@@ -3470,12 +3470,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Err.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Export.hpp
@@ -4212,12 +4212,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Err.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Export.hpp
@@ -4269,10 +4269,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLLoader.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_uintptr_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_wchar_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/cdefs.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/NonCopyable.hpp
@@ -4911,11 +4911,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -5655,11 +5655,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -6399,15 +6399,15 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/emmintrin.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/mm_malloc.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/mmintrin.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/xmmintrin.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/emmintrin.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/mm_malloc.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/mmintrin.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/xmmintrin.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/stb_image/stb_image.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/stb_image/stb_image_write.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
@@ -7053,11 +7053,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.c
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -7705,11 +7705,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -8453,12 +8453,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -9224,11 +9224,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -9994,12 +9994,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Err.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Export.hpp
@@ -10747,12 +10747,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -11506,12 +11506,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -12302,12 +12302,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -13063,11 +13063,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -13765,11 +13765,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -14520,11 +14520,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -15285,12 +15285,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
@@ -15365,10 +15365,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_uintptr_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/_types/_wchar_t.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/cdefs.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp
@@ -16004,11 +16004,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Rect.hpp
@@ -16646,11 +16646,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Rect.hpp
@@ -17304,11 +17304,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -18057,12 +18057,12 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Color.hpp
@@ -18719,11 +18719,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/sys/wait.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Graphics/Rect.hpp

@@ -132,14 +132,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(CMAKE_COMMAND) -E cmake_progress_start /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearGame//CMakeFiles/progress.marks
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearGame/all
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(CMAKE_COMMAND) -E cmake_progress_start /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/LightYearEngine//CMakeFiles/progress.marks
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearEngine/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearGame/clean
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearEngine/clean
 .PHONY : clean
 
 # The main clean target
@@ -148,12 +148,12 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearGame/preinstall
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearEngine/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearGame/preinstall
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearEngine/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
@@ -162,42 +162,138 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-LightYearGame/CMakeFiles/LightYearGame.dir/rule:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearGame/CMakeFiles/LightYearGame.dir/rule
-.PHONY : LightYearGame/CMakeFiles/LightYearGame.dir/rule
+LightYearEngine/CMakeFiles/LightYearEngine.dir/rule:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LightYearEngine/CMakeFiles/LightYearEngine.dir/rule
+.PHONY : LightYearEngine/CMakeFiles/LightYearEngine.dir/rule
 
 # Convenience name for target.
-LightYearGame: LightYearGame/CMakeFiles/LightYearGame.dir/rule
-.PHONY : LightYearGame
+LightYearEngine: LightYearEngine/CMakeFiles/LightYearEngine.dir/rule
+.PHONY : LightYearEngine
 
 # fast build rule for target.
-LightYearGame/fast:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearGame/CMakeFiles/LightYearGame.dir/build.make LightYearGame/CMakeFiles/LightYearGame.dir/build
-.PHONY : LightYearGame/fast
+LightYearEngine/fast:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/build
+.PHONY : LightYearEngine/fast
 
-src/gameFramework/GameApplication.o: src/gameFramework/GameApplication.cpp.o
-.PHONY : src/gameFramework/GameApplication.o
+src/EntryPoint.o: src/EntryPoint.cpp.o
+.PHONY : src/EntryPoint.o
 
 # target to build an object file
-src/gameFramework/GameApplication.cpp.o:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearGame/CMakeFiles/LightYearGame.dir/build.make LightYearGame/CMakeFiles/LightYearGame.dir/src/gameFramework/GameApplication.cpp.o
-.PHONY : src/gameFramework/GameApplication.cpp.o
+src/EntryPoint.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o
+.PHONY : src/EntryPoint.cpp.o
 
-src/gameFramework/GameApplication.i: src/gameFramework/GameApplication.cpp.i
-.PHONY : src/gameFramework/GameApplication.i
+src/EntryPoint.i: src/EntryPoint.cpp.i
+.PHONY : src/EntryPoint.i
 
 # target to preprocess a source file
-src/gameFramework/GameApplication.cpp.i:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearGame/CMakeFiles/LightYearGame.dir/build.make LightYearGame/CMakeFiles/LightYearGame.dir/src/gameFramework/GameApplication.cpp.i
-.PHONY : src/gameFramework/GameApplication.cpp.i
+src/EntryPoint.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.i
+.PHONY : src/EntryPoint.cpp.i
 
-src/gameFramework/GameApplication.s: src/gameFramework/GameApplication.cpp.s
-.PHONY : src/gameFramework/GameApplication.s
+src/EntryPoint.s: src/EntryPoint.cpp.s
+.PHONY : src/EntryPoint.s
 
 # target to generate assembly for a file
-src/gameFramework/GameApplication.cpp.s:
-	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearGame/CMakeFiles/LightYearGame.dir/build.make LightYearGame/CMakeFiles/LightYearGame.dir/src/gameFramework/GameApplication.cpp.s
-.PHONY : src/gameFramework/GameApplication.cpp.s
+src/EntryPoint.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.s
+.PHONY : src/EntryPoint.cpp.s
+
+src/framework/Actor.o: src/framework/Actor.cpp.o
+.PHONY : src/framework/Actor.o
+
+# target to build an object file
+src/framework/Actor.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.o
+.PHONY : src/framework/Actor.cpp.o
+
+src/framework/Actor.i: src/framework/Actor.cpp.i
+.PHONY : src/framework/Actor.i
+
+# target to preprocess a source file
+src/framework/Actor.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.i
+.PHONY : src/framework/Actor.cpp.i
+
+src/framework/Actor.s: src/framework/Actor.cpp.s
+.PHONY : src/framework/Actor.s
+
+# target to generate assembly for a file
+src/framework/Actor.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.s
+.PHONY : src/framework/Actor.cpp.s
+
+src/framework/Application.o: src/framework/Application.cpp.o
+.PHONY : src/framework/Application.o
+
+# target to build an object file
+src/framework/Application.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o
+.PHONY : src/framework/Application.cpp.o
+
+src/framework/Application.i: src/framework/Application.cpp.i
+.PHONY : src/framework/Application.i
+
+# target to preprocess a source file
+src/framework/Application.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.i
+.PHONY : src/framework/Application.cpp.i
+
+src/framework/Application.s: src/framework/Application.cpp.s
+.PHONY : src/framework/Application.s
+
+# target to generate assembly for a file
+src/framework/Application.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.s
+.PHONY : src/framework/Application.cpp.s
+
+src/framework/Core.o: src/framework/Core.cpp.o
+.PHONY : src/framework/Core.o
+
+# target to build an object file
+src/framework/Core.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o
+.PHONY : src/framework/Core.cpp.o
+
+src/framework/Core.i: src/framework/Core.cpp.i
+.PHONY : src/framework/Core.i
+
+# target to preprocess a source file
+src/framework/Core.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.i
+.PHONY : src/framework/Core.cpp.i
+
+src/framework/Core.s: src/framework/Core.cpp.s
+.PHONY : src/framework/Core.s
+
+# target to generate assembly for a file
+src/framework/Core.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.s
+.PHONY : src/framework/Core.cpp.s
+
+src/framework/World.o: src/framework/World.cpp.o
+.PHONY : src/framework/World.o
+
+# target to build an object file
+src/framework/World.cpp.o:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.o
+.PHONY : src/framework/World.cpp.o
+
+src/framework/World.i: src/framework/World.cpp.i
+.PHONY : src/framework/World.i
+
+# target to preprocess a source file
+src/framework/World.cpp.i:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.i
+.PHONY : src/framework/World.cpp.i
+
+src/framework/World.s: src/framework/World.cpp.s
+.PHONY : src/framework/World.s
+
+# target to generate assembly for a file
+src/framework/World.cpp.s:
+	cd /Users/david.ashley/Documents/light-year/light-year/LightYearEngine && $(MAKE) $(MAKESILENT) -f LightYearEngine/CMakeFiles/LightYearEngine.dir/build.make LightYearEngine/CMakeFiles/LightYearEngine.dir/src/framework/World.cpp.s
+.PHONY : src/framework/World.cpp.s
 
 # Help Target
 help:
@@ -211,10 +307,22 @@ help:
 	@echo "... install/strip"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
-	@echo "... LightYearGame"
-	@echo "... src/gameFramework/GameApplication.o"
-	@echo "... src/gameFramework/GameApplication.i"
-	@echo "... src/gameFramework/GameApplication.s"
+	@echo "... LightYearEngine"
+	@echo "... src/EntryPoint.o"
+	@echo "... src/EntryPoint.i"
+	@echo "... src/EntryPoint.s"
+	@echo "... src/framework/Actor.o"
+	@echo "... src/framework/Actor.i"
+	@echo "... src/framework/Actor.s"
+	@echo "... src/framework/Application.o"
+	@echo "... src/framework/Application.i"
+	@echo "... src/framework/Application.s"
+	@echo "... src/framework/Core.o"
+	@echo "... src/framework/Core.i"
+	@echo "... src/framework/Core.s"
+	@echo "... src/framework/World.o"
+	@echo "... src/framework/World.i"
+	@echo "... src/framework/World.s"
 .PHONY : help
 
 

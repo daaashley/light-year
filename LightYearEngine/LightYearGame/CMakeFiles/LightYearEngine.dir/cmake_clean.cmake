@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o"
   "CMakeFiles/LightYearEngine.dir/src/EntryPoint.cpp.o.d"
+  "CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.o"
+  "CMakeFiles/LightYearEngine.dir/src/framework/Actor.cpp.o.d"
   "CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o"
   "CMakeFiles/LightYearEngine.dir/src/framework/Application.cpp.o.d"
   "CMakeFiles/LightYearEngine.dir/src/framework/Core.cpp.o"

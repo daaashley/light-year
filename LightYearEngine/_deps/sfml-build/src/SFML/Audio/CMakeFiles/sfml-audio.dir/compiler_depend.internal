@@ -730,11 +730,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Err.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/System/Export.hpp
@@ -1413,11 +1413,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
@@ -2160,11 +2160,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Listener.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
@@ -2901,11 +2901,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/InputSoundFile.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp
@@ -3593,11 +3593,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Listener.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
@@ -4353,11 +4353,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/InputSoundFile.hpp
@@ -5048,11 +5048,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/OutputSoundFile.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp
@@ -5738,11 +5738,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Sound.hpp
@@ -6486,11 +6486,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/InputSoundFile.hpp
@@ -7181,11 +7181,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundBuffer.hpp
@@ -7946,12 +7946,12 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/export.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/format.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h
@@ -8707,11 +8707,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/export.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/format.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h
@@ -9453,12 +9453,12 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/ogg/ogg.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/ogg/os_types.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/vorbis/codec.h
@@ -10198,11 +10198,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
@@ -10937,11 +10937,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/export.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/format.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h
@@ -11702,12 +11702,12 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/ogg/ogg.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/ogg/os_types.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/extlibs/headers/vorbis/codec.h
@@ -12464,11 +12464,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Config.hpp
@@ -13207,11 +13207,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundRecorder.hpp
@@ -13974,11 +13974,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_time.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wchar.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/xlocale/_wctype.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/__stddef_max_align_t.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/limits.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/AlResource.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/Export.hpp
  /Users/david.ashley/Documents/light-year/light-year/LightYearEngine/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp
